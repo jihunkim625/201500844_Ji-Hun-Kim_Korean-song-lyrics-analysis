@@ -7,4 +7,4 @@
 
 주제: 연도별 인기가요 가사 언어 분석
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/OZG01B-51M4?start=195" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
