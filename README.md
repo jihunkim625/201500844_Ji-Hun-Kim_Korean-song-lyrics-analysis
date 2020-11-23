@@ -7,4 +7,8 @@
 
 주제: 연도별 인기가요 가사 언어 분석
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
+
+@[동영상](https://www.youtube.com/embed/6Az2cNU7gUw)
+
+<audio ref='themeSong' src="https://raw.githubusercontent.com/myName/myRepo/master/vendor/assets/music/Tetris.mp3" autoPlay loop></audio>
