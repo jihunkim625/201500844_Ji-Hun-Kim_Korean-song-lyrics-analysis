@@ -127,8 +127,17 @@
 ### 2020-11-13 19:19:11
 진행현황  
 - 언어분석 스크립트 완료  
+  
+![분석스크립트](https://user-images.githubusercontent.com/74039406/101238424-7cac9400-3723-11eb-93aa-84b75dd07fa4.png)  
+  
 - 분석결과 데이터 정제 완료  
-- 피벗 테이블 완료  
+  
+![분석결과](https://user-images.githubusercontent.com/74039406/101238440-98b03580-3723-11eb-8c63-e4adee336ae9.png)  
+  
+- 피벗테이블 완료  
+  
+![피벗테이블](https://user-images.githubusercontent.com/74039406/101238445-a8c81500-3723-11eb-90cd-b2ad6c0e9ffc.png)  
+  
   
 변경사항  
 - 데이터 개수(노래 개수): 2595개 → 2276개(중복 제거)  
