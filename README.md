@@ -86,8 +86,10 @@ rawdata_김지훈_201500844.tsv
   - album
   - genre
   - year
-  - lyrics
-![데이터100개](https://user-images.githubusercontent.com/74039406/101237400-afeb2500-371b-11eb-8759-68c7441039d7.png)
+  - lyrics  
+    
+![데이터100개](https://user-images.githubusercontent.com/74039406/101237400-afeb2500-371b-11eb-8759-68c7441039d7.png)  
+  
 - 해당 파일  
 가요 가사 데이터_100개_김지훈_201500844.xlsx   
   
