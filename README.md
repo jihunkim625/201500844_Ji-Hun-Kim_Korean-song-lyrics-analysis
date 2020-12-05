@@ -61,7 +61,7 @@
     - genre
     - year
     - lyrics
-<p align="center">[위 사진 클릭 시 동영상 이동]</p>  
+<p align="center">[다음 사진 클릭 시 동영상 이동]</p>  
 <p align="center"><a href="https://youtu.be/HOyc77GOx7w?" target="_blank"><img src="https://user-images.githubusercontent.com/74039406/101237018-ea06f780-3718-11eb-95d7-011c5599f954.png" alt="프로젝트 기획 동영상" border="10" /></a></p>  
   
 ![슬라이드2](https://user-images.githubusercontent.com/74039406/101236644-546a6880-3716-11eb-9294-8c98c0654b6a.PNG)
