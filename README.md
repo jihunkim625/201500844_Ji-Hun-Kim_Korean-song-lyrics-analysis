@@ -54,7 +54,7 @@
   - 방법
   - 데이터 스키마
    
-<p align="center"><a href="https://youtu.be/HOyc77GOx7w?" target="_blank"><img src="https://user-images.githubusercontent.com/74039406/101236640-40bf0200-3716-11eb-95c2-85e12a49f750.PNG" alt="프로젝트 기획 동영상" width="1280" height="720" border="10" /></a></p>
+<p align="center"><a href="https://youtu.be/HOyc77GOx7w?" target="_blank"><img src="https://user-images.githubusercontent.com/74039406/101237018-ea06f780-3718-11eb-95d7-011c5599f954.png" alt="프로젝트 기획 동영상" border="10" /></a></p>
     
 <p align="center">[연도별 인기가요 가사 언어분석_프로젝트 기획서_클릭 시 동영상 이동]</p>   
     
