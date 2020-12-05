@@ -54,6 +54,13 @@
   - 대상
   - 방법
   - 데이터 스키마
+    - id
+    - title
+    - singer
+    - album
+    - genre
+    - year
+    - lyrics
    
 <p align="center"><a href="https://youtu.be/HOyc77GOx7w?" target="_blank"><img src="https://user-images.githubusercontent.com/74039406/101237018-ea06f780-3718-11eb-95d7-011c5599f954.png" alt="프로젝트 기획 동영상" border="10" /></a></p>
     
