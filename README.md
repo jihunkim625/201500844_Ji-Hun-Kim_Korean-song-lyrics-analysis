@@ -7,7 +7,7 @@
 담당교수: 김바로 교수님  
 주제: 연도별 인기가요 가사 언어분석  
 
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+[![Video Label](http://img.youtube.com/vi/HOyc77GOx7w/0.jpg)](https://youtu.be/HOyc77GOx7w)
 
 ## 1. 배경
 
