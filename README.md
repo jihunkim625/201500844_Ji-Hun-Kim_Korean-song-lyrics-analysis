@@ -57,6 +57,13 @@
 [![Video Label](http://img.youtube.com/vi/HOyc77GOx7w/0.jpg)](https://youtu.be/HOyc77GOx7w?)  
 [연도별 인기가요 가사 언어분석_프로젝트 기획서]  
   
+![슬라이드1](https://user-images.githubusercontent.com/74039406/101236640-40bf0200-3716-11eb-95c2-85e12a49f750.PNG)
+  
+![슬라이드2](https://user-images.githubusercontent.com/74039406/101236644-546a6880-3716-11eb-9294-8c98c0654b6a.PNG)
+  
+![슬라이드3](https://user-images.githubusercontent.com/74039406/101236650-5cc2a380-3716-11eb-9d7d-e1215301a77d.PNG)
+  
+  
 - 주제 관련 샘플 데이터 20개 수집 완료  
 - 해당 파일  
 rawdata_김지훈_201500844.tsv  
