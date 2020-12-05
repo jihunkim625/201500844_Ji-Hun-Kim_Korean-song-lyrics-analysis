@@ -174,4 +174,24 @@
   
 ---------------------------------------  
   
-### 2020-12-02 01:39:28  
+### 2020-12-05 18:07:30  
+진행현황  
+- Github README.md 업데이트
+- 동사 형태소 분석 완료
+  
+![명사](https://user-images.githubusercontent.com/74039406/101238582-8a164e00-3724-11eb-88cd-bbc0dbb4e6f2.png)  
+  
+- 형용사 형태소 분석 완료
+  
+![명사](https://user-images.githubusercontent.com/74039406/101238582-8a164e00-3724-11eb-88cd-bbc0dbb4e6f2.png)  
+  
+- 부사 형태소 분석 완료
+  
+![명사](https://user-images.githubusercontent.com/74039406/101238582-8a164e00-3724-11eb-88cd-bbc0dbb4e6f2.png)  
+  
+  
+해당파일
+- 명사_멜론 가사 분석 및 해석_김지훈_201500844.xlsx  
+    
+---------------------------------------  
+  
