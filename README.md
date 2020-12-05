@@ -191,7 +191,7 @@
   
 - 형용사 형태소 분석 완료
   
-![명사](https://user-images.githubusercontent.com/74039406/101238582-8a164e00-3724-11eb-88cd-bbc0dbb4e6f2.png)  
+![형용사분석](https://user-images.githubusercontent.com/74039406/101244197-4e8d7b00-3748-11eb-9996-3ee19eb345e3.png)  
   
 - 부사 형태소 분석 완료
   
