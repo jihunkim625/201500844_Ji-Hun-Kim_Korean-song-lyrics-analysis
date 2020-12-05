@@ -56,10 +56,12 @@
    
 <p align="center"><a href="https://youtu.be/HOyc77GOx7w?" target="_blank"><img src="https://user-images.githubusercontent.com/74039406/101237018-ea06f780-3718-11eb-95d7-011c5599f954.png" alt="프로젝트 기획 동영상" border="10" /></a></p>
     
-<p align="center">[연도별 인기가요 가사 언어분석_프로젝트 기획서_클릭 시 동영상 이동]</p>   
+<p align="center">[클릭 시 동영상 이동]</p>   
+    
     
 ![슬라이드2](https://user-images.githubusercontent.com/74039406/101236644-546a6880-3716-11eb-9294-8c98c0654b6a.PNG)
-  
+   
+   
 ![슬라이드3](https://user-images.githubusercontent.com/74039406/101236650-5cc2a380-3716-11eb-9d7d-e1215301a77d.PNG)
   
   
