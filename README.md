@@ -7,14 +7,14 @@
 담당교수: 김바로 교수님  
 주제: 연도별 인기가요 가사 언어분석  
 
-[![Video Label](http://img.youtube.com/vi/HOyc77GOx7w/0.jpg)](https://youtu.be/HOyc77GOx7w?)
+[![Video Label](http://img.youtube.com/vi/HOyc77GOx7w/0.jpg)](https://youtu.be/HOyc77GOx7w?)  
 [연도별 인기가요 가사 언어분석_프로젝트 기획서]
 
 ## 1. 배경
 
-'가사를 보면 시대상이 보인다.'
-'어떤 가사의 노래가 대중으로부터 인기를 얻을까?'
-
+'가사를 보면 시대상이 보인다.'  
+'어떤 가사의 노래가 대중으로부터 인기를 얻을까?'  
+  
 
 
 ## 2. 목적
