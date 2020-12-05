@@ -53,15 +53,11 @@
   - 대상
   - 방법
   - 데이터 스키마
-  
-[![Video Label](http://img.youtube.com/vi/HOyc77GOx7w/0.jpg)](https://youtu.be/HOyc77GOx7w?)
-
-<p align="center"><a href="https://youtu.be/HOyc77GOx7w?" target="_blank"><img src="http://img.youtube.com/vi/HOyc77GOx7w/0.jpg" alt="프로젝트 기획 동영상" width="1280" height="720" border="10" /></a></p>
    
-<p align="center">[연도별 인기가요 가사 언어분석_프로젝트 기획서]</p>   
-  
-![슬라이드1](https://user-images.githubusercontent.com/74039406/101236640-40bf0200-3716-11eb-95c2-85e12a49f750.PNG)
-  
+<p align="center"><a href="https://youtu.be/HOyc77GOx7w?" target="_blank"><img src="https://user-images.githubusercontent.com/74039406/101236640-40bf0200-3716-11eb-95c2-85e12a49f750.PNG" alt="프로젝트 기획 동영상" width="1280" height="720" border="10" /></a></p>
+    
+<p align="center">[연도별 인기가요 가사 언어분석_프로젝트 기획서_클릭 시 동영상 이동]</p>   
+    
 ![슬라이드2](https://user-images.githubusercontent.com/74039406/101236644-546a6880-3716-11eb-9294-8c98c0654b6a.PNG)
   
 ![슬라이드3](https://user-images.githubusercontent.com/74039406/101236650-5cc2a380-3716-11eb-9d7d-e1215301a77d.PNG)
