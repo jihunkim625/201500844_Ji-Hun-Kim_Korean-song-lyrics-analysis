@@ -55,7 +55,7 @@
   - 데이터 스키마
   
 [![Video Label](http://img.youtube.com/vi/HOyc77GOx7w/0.jpg)](https://youtu.be/HOyc77GOx7w?)  
-[연도별 인기가요 가사 언어분석_프로젝트 기획서]  
+<center>[연도별 인기가요 가사 언어분석_프로젝트 기획서]</center>  
   
 ![슬라이드1](https://user-images.githubusercontent.com/74039406/101236640-40bf0200-3716-11eb-95c2-85e12a49f750.PNG)
   
