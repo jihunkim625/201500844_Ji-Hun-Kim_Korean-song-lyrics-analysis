@@ -54,7 +54,9 @@
   - 방법
   - 데이터 스키마
   
-[![Video Label](http://img.youtube.com/vi/HOyc77GOx7w/0.jpg)](https://youtu.be/HOyc77GOx7w?){:.aligncenter}
+[![Video Label](http://img.youtube.com/vi/HOyc77GOx7w/0.jpg)](https://youtu.be/HOyc77GOx7w?)
+
+<p align="center"><a href="https://youtu.be/HOyc77GOx7w?" target="_blank"><img src="http://img.youtube.com/vi/HOyc77GOx7w/0.jpg" alt="프로젝트 기획 동영상" width="1280" height="720" border="10" /></a></p>
    
 <p align="center">[연도별 인기가요 가사 언어분석_프로젝트 기획서]</p>   
   
